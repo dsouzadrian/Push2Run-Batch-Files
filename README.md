@@ -15,5 +15,5 @@ This is a VBScript to play a song from youtube. The name of the song to played i
 This also contains code to begin light sync if the script was invoked after 6PM. 
 The script can be invoked from push2Run and takes the name of the song as an argument. The name of the song is specified when you talk to your google home.
 
-You can download push2Run here and follow the tutorials to get it setup with your google home.
+You can download push2Run here and follow the tutorials to get it setup with your google home.<br/>
 https://push2run.com/
