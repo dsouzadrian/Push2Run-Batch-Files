@@ -16,7 +16,7 @@ WshShell.run "CMD /C start chrome.exe " & URL & "",0,False
 
 
 'Will begin light sync only after 6 PM.
-Dim nightTime
+Dim nightTime,currentTime
 currentTime = Time
 nightTime = CDate("06:00:00 PM")
 

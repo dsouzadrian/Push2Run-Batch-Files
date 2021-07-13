@@ -1,0 +1,2 @@
+"C:\Program Files\Personal Capital Auto Downloader\Personal Capital Auto Downloader\pcAuto.exe" auto %1
+wscript.exe "C:\Users\Adrian DSouza\OneDrive\Documents\Personal Documents\Expenses\Expenses Reports\Scripts\refreshBudgetExcel.vbs"
